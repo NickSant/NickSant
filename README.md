@@ -14,6 +14,19 @@
 - :drum: Drummer
 - :rocket: Always studing and learning
 - :teacher: Know something? Tell me and help me to improve!
-- :books: Currently learning Node.js and React
+- :books: Currently learning: 
+<div width="100%" text-align:center>
+<img width="40" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
+<img width="40"  display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">
+<img width="40"  display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
+  <img width="40"  display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript">
+<img width="40" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
+
+<img width="40" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node">
+  <img width="40" display="block" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express">
+  
+
+
+</div>
 
 _"It’s fine to celebrate success but it is more important to heed the lessons of failure."_
